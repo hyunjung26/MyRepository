@@ -6,6 +6,7 @@ public class A {
 		System.out.println("This is the 2nd version.");
 		System.out.println("A");
 		System.out.println("master");
+		System.out.println("devC");
 		}
 }
 
